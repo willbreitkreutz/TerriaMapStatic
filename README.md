@@ -21,3 +21,5 @@ How this version is made:
 2. `npm install`
 3. `gulp release`
 4. This repository is the contents of the `wwwroot/build` directory.
+5. 
+Some Edit
